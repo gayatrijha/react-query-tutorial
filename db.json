@@ -1,0 +1,175 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Batman ",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "alterEgo": "Clark Kent"
+    },
+    {
+      "id": 3,
+      "name": "Wonder Woman 1",
+      "alterEgo": "Princess Diana"
+    },
+    {
+      "name": "fsd",
+      "alterEgo": "sdgsdg",
+      "id": 4
+    },
+    {
+      "name": "fsd",
+      "alterEgo": "sdgsdg",
+      "id": 5
+    },
+    {
+      "name": "flash",
+      "alterEgo": "barry allen",
+      "id": 6
+    },
+    {
+      "name": "elon",
+      "alterEgo": "musk",
+      "id": 7
+    },
+    {
+      "name": "post ",
+      "alterEgo": "malone",
+      "id": 8
+    },
+    {
+      "name": "post ",
+      "alterEgo": "malone",
+      "id": 9
+    },
+    {
+      "name": "captain",
+      "alterEgo": " us",
+      "id": 10
+    },
+    {
+      "name": "",
+      "alterEgo": "",
+      "id": 11
+    },
+    {
+      "name": "ss",
+      "alterEgo": "sas",
+      "id": 12
+    },
+    {
+      "name": "fsf",
+      "alterEgo": "fwfwf",
+      "id": 13
+    },
+    {
+      "name": "fsf",
+      "alterEgo": "fwfwf",
+      "id": 14
+    },
+    {
+      "name": "fsf",
+      "alterEgo": "fwfwf",
+      "id": 15
+    },
+    {
+      "name": "dfsdf",
+      "alterEgo": "DFfFfwe",
+      "id": 16
+    },
+    {
+      "name": "gayatr",
+      "alterEgo": "jha",
+      "id": 17
+    },
+    {
+      "name": "melon",
+      "alterEgo": "elon",
+      "id": 18
+    },
+    {
+      "name": "new oe",
+      "alterEgo": "oggy",
+      "id": 19
+    },
+    {
+      "name": "",
+      "alterEgo": "",
+      "id": 20
+    },
+    {
+      "name": "gjghjghj",
+      "alterEgo": "gjghjgjh",
+      "id": 21
+    },
+    {
+      "name": "ghjgj",
+      "alterEgo": "yjytjty",
+      "id": 22
+    },
+    {
+      "name": "aqua",
+      "alterEgo": "aqua2",
+      "id": 23
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "label": "red"
+    },
+    {
+      "id": 2,
+      "label": "yellow"
+    },
+    {
+      "id": 3,
+      "label": "purple"
+    },
+    {
+      "id": 4,
+      "label": "black"
+    },
+    {
+      "id": 5,
+      "label": "pink"
+    },
+    {
+      "id": 6,
+      "label": "salmon"
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "chandler bing"
+    },
+    {
+      "id": 2,
+      "name": "joey"
+    },
+    {
+      "id": 3,
+      "name": "rachel"
+    }
+  ],
+  "users": [
+    {
+      "id": "jha.gayatri01@gmail.com",
+      "channelId": "codewithme"
+    }
+  ],
+  "channels": [
+    {
+      "id": "codewithme",
+      "course": [
+        "react",
+        "vew",
+        "angular"
+      ]
+    }
+  ]
+}
